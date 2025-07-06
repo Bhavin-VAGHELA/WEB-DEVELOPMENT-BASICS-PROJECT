@@ -1,2 +1,2 @@
-# WEB-DEVELOPMENT-BASICS-PROJECT
-This is an html and css basics project 
+# WEB-DEVELOPMENT-BASICS-PROJECT :- (FLIPCART_CLONE)
+This is an html and css basics project.
